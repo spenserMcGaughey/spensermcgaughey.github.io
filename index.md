@@ -9,7 +9,7 @@ It's a character creation program for the popular RPG Dungeons and Dragons (5e).
 component   | Status
 ----------- | --------
 Main        | Unfinished
-Die roller  | Finished
+Die roller  | Finished(?)
 GUI         | Unstarted
 
 
